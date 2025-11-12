@@ -1,9 +1,9 @@
 胖东来
 于东来
-
+山姆
 DeepSeek
 梁文锋
-
+食品安全
 华为
 鸿蒙
 HarmonyOS
@@ -48,10 +48,10 @@ DJI
 字节
 bytedance
 张一鸣
-
+雷克萨斯
 特斯拉
 马斯克
-
+starlink
 微软
 Microsoft
 
@@ -65,7 +65,7 @@ AMD
 google
 gemini
 deepmind
-
+grok
 chatgpt
 openai
 sora
@@ -95,7 +95,7 @@ ai
 
 芯片
 光刻机
-
+算力
 科技
 
 核能
