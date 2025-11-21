@@ -44,7 +44,7 @@ c罗
 郭帆
 罗永浩
 历史低价
-
+黄金
 京东
 刘强东
 抖音
@@ -61,7 +61,7 @@ bytedance
 MODEL Y
 特斯拉
 马斯克
-
+elon musk
 微软
 Microsoft
 android
@@ -79,7 +79,7 @@ grok
 chatgpt
 openai
 sora
-
+马云
 claude
 Anthropic
 siri
@@ -125,3 +125,5 @@ shadowrocket
 航空
 核能
 固态电池
+新闻联播
+股市
